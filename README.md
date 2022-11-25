@@ -1,4 +1,4 @@
-<center>
+<div align=center>
 
 <img src="https://avatars.githubusercontent.com/u/119079769?s=200&v=4" width=120px> 
 
@@ -8,5 +8,4 @@
 
 ### Seguici sui social: [Instagram](https://www.instagram.com/deggios_digital/)
 
-</center>
-
+</div>
