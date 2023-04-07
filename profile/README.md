@@ -2,7 +2,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/119079769?s=200&v=4" width=120px> 
 
-# **Deggio's digital**
+# **Enhance.dg**
 
 ## il nuovo team digitale del liceo "Cosimo De Giorgi"
 
